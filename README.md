@@ -11,5 +11,6 @@
 ## 目录及文件说明
 - sw2020 存放写字机器人的零件模型及装配文件，使用的三维建模软件是SolidWorks 2020。
 - dxf 3mm铝合金板定制CNC切割文件，由sw2020文件夹中的对应零件模型导出生成。
-- BOM.xlsx 零件清单及参考价格。
+- BOM.xls 零件清单及参考价格。
+- bom 各部分材料清单。
 - Assemble and User Manual.pdf 装配及用户手册。
